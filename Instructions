@@ -1,7 +1,7 @@
-Download and install git and vscode. Vscode will recognize Git by itself
+/* Download and install git and vscode. Vscode will recognize Git by itself
 Add another collaborator
 Copy the url for Remote Repository which is "https://github.com/TestSyngentarepo/Martech_Remote_Repository.git"
-
+*/
 
 Martech Github account
 Users github accounts
@@ -9,5 +9,9 @@ Local Repo connection with Single Remote Repo
 Repository Collorators
 
 VS Code as Local Editor on both user machines
-Added Git as version control to it
-Now edit
+Added Git as version control to Vscode
+Once its there, start adding folder or project and add verion control to the project using plus Single
+Start editing and commit changes and push all those to remote Repository
+Now to see changes made to the file or to the code - USE Gitk
+
+
